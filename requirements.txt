@@ -2,3 +2,4 @@ nltk
 gensim
 numpy
 scikit-learn
+streamlit
